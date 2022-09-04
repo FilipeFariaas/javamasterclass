@@ -12,5 +12,11 @@ public class Main {
             - long
             - float
         */
+
+        int minimumIntValue = Integer.MIN_VALUE;
+        int maximumIntValue = Integer.MAX_VALUE;
+
+        System.out.println("Minimum Integer Value: " + minimumIntValue);
+        System.out.println("Maximum Integer Value: " + maximumIntValue);
     }
 }
