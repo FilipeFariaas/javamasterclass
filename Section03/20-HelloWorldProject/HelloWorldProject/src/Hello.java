@@ -5,6 +5,6 @@ public class Hello {
     void   - indicates that the method will not return anything
     */
     public static void main(String[] args) {
-        System.out.println("Hello World"); // <- statement - a complete command to be executed
+        System.out.println("Hello, Filipe"); // <- statement - a complete command to be executed
     }
 }
