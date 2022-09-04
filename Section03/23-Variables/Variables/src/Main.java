@@ -7,5 +7,7 @@ public class Main {
         5             - is the value to be stored
         */
         int myFirstNumber = 5; // <- it is an expression. A construct that evaluates to a single value
+
+        System.out.println(myFirstNumber);
     }
 }
