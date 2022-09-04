@@ -13,6 +13,9 @@ public class Main {
             - float
         */
 
+        /* Integer is a Wrapper Class
+           Java has Wrapper Classes for all eight primitive types
+        */
         int minimumIntValue = Integer.MIN_VALUE;
         int maximumIntValue = Integer.MAX_VALUE;
 
