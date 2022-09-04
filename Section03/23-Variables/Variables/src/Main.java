@@ -9,7 +9,8 @@ public class Main {
         int myFirstNumber = (10 + 5) + (2 * 10); // <- it is an expression. A construct that evaluates to a single value
         int mySecondNumber = 12;
         int myThirdNumber = 6;
+        int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
 
-        System.out.println(myFirstNumber);
+        System.out.println(myTotal);
     }
 }
