@@ -1,5 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        /*
+        There are 8 primitive types:
+            - boolean
+            - byte
+            - char
+            - short
+            - int
+            - long
+            - float
+        */
     }
 }
