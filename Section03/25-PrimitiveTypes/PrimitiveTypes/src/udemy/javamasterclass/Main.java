@@ -82,5 +82,28 @@ public class Main {
 
         long finalVal = 50000L + ( (long) (byteVal + shortVal + intVal) * 10);
         System.out.println("Final value: " + finalVal);
+
+        // Floating point numbers, also known as real number, used when more precision is needed
+
+        System.out.println("\n----- FLOAT -----");
+        // single precision number, occupies 32 bits (width of thirty-two)
+        // precision refers to the format and amount of space occupied by the type
+
+        float minimumFloatValue = Float.MIN_VALUE;
+        float maximumFloatValue = Float.MAX_VALUE;
+
+        System.out.println("Minimum Float Value: " + minimumFloatValue);
+        System.out.println("Maximum Float Value: " + maximumFloatValue);
+
+        System.out.println("\n----- DOUBLE -----");
+        // double precision number, occupies 64 bits (width of sixty-four)
+        // precision refers to the format and amount of space occupied by the type
+
+        double minimumDoubleValue = Double.MIN_VALUE;
+        double maximumDoubleValue = Double.MAX_VALUE;
+
+        System.out.println("Minimum Double Value: " + minimumDoubleValue);
+        System.out.println("Maximum Double Value: " + maximumDoubleValue);
+        
     }
 }
