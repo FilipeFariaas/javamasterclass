@@ -63,7 +63,7 @@ public class Main {
         long longValue = 123L;
         System.out.println("Long variable with value assigned: " + longValue);
 
-        System.out.println("----- CHALLENGE -----");
+        System.out.println("\n----- CHALLENGE -----");
         /*
             Create a byte variable;
             Create a short variable;
