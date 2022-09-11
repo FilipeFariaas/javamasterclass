@@ -131,6 +131,17 @@ public class Main {
         // so is always better to use float point numbers when dividing
         System.out.println("Float value divided (5 / 3): " + (floatVal / 3f));
         System.out.println("Double value divided (5 / 3): " + (doubleVal / 3d));
+
+        System.out.println("\n----- CHALLENGE 2 -----");
+        /*
+            Convert a given number of pounds into kilograms
+        */
+
+        double kilogramsBase = 0.45329237;
+        double pounds = 55;
+
+        double poundsConverted = pounds * kilogramsBase;
+        System.out.println(pounds + " pounds converted to kilograms is: " + poundsConverted);
         
     }
 }
