@@ -153,5 +153,17 @@ public class Main {
 
         System.out.println("Literal value 'D': " + charVal);
         System.out.println("Unicode value '0044': " + unicodeVal);
+
+        System.out.println("\n----- BOOLEAN -----");
+        // a boolean type allows to two options: true or false
+
+        boolean booleanTrue = true;
+        boolean booleanFalse = false;
+
+        System.out.println("True boolean value: " + booleanTrue);
+        System.out.println("False boolean value: " + booleanFalse);
+
+        // use example
+        boolean isPremiumMember = true;
     }
 }
