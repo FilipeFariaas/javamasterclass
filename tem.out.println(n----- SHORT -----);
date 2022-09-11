@@ -1,0 +1,125 @@
+[33mcommit f9c6c042f0fad58d365ff94530612ca0d1ca6e11[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 11 14:41:23 2022 -0300
+
+    add byte, short and long types
+
+[33mcommit ac2090251197dee8dd97242d50c57da5b48da004[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 15:47:54 2022 -0300
+
+    add comment pointing Wrapper Class Integer
+
+[33mcommit 6ba4fd4a318fb46c44de272c559ccf40f93b3f57[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 15:44:50 2022 -0300
+
+    add max and min int values variables
+
+[33mcommit 835c3357c6876a64cb533aae08a08efffd48498c[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 15:41:09 2022 -0300
+
+    move Main class to new package udemy.javamasterclass
+
+[33mcommit 56dd13fb3bd9b99530c6b3525977907ea5137fa8[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 15:38:04 2022 -0300
+
+    add comment about the different Primitive Data Types
+
+[33mcommit ee1f3b58341e833e57da6283e3413f3f83807d9a[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 15:35:42 2022 -0300
+
+    create main method
+
+[33mcommit 8bdbaea56042e5aad797238d1c25ccf8f94e9f9d[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 15:09:50 2022 -0300
+
+    add myTotal variable as the sum of all other variables
+
+[33mcommit 22341d9be8c6118a8b9c98a380d4eed36b2ad6b4[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 15:06:45 2022 -0300
+
+    add myThirdNumber variable
+
+[33mcommit 21b29169c736cb9384e7a4f6bd84c35fab1a47d2[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 15:06:06 2022 -0300
+
+    add mySecondNumber variable
+
+[33mcommit 3f4b94102220d056d497132a6ea028e320e09dc0[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 15:05:35 2022 -0300
+
+    converts myFirstNumber into a more complex expression
+
+[33mcommit 63b3e3f226af3b254b8b9a34a4739ddcdcddc1a3[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:54:26 2022 -0300
+
+    print myFirstNumber variable into the console
+
+[33mcommit 9a4d954f3e93b4ae0765c4ed1ba1792907ebf7cb[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:52:36 2022 -0300
+
+    add comment explaining how the structure of a variable is called
+
+[33mcommit 06ab6cc6b843aec287adbdb57b864cb3b076b280[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:49:05 2022 -0300
+
+    create a int variable
+
+[33mcommit 24dab7c3414e50dcf33b9cf35b75e959e29736dc[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:39:06 2022 -0300
+
+    create main method
+
+[33mcommit c3135fba271ab0a56d31d9429cc5156418b9d09f[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:37:50 2022 -0300
+
+    create main class
+
+[33mcommit 9d876aa6582ef632212f97e5e4e15343ae73ed55[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:32:31 2022 -0300
+
+    change statement sentence to 'Hello, Filipe'
+
+[33mcommit 0a10237315eb4b2cd3e931f21c7faa7ec45b636a[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:28:52 2022 -0300
+
+    add the prtin statement to main method
+
+[33mcommit b837caf59e9a7a6ebda723514fedd64e0b53a608[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:24:46 2022 -0300
+
+    first compile
+
+[33mcommit e4d79b4e9efbb731614b13da65d1a22487510cd4[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:20:40 2022 -0300
+
+    create main method
+
+[33mcommit 732bc5ce3d4b2c9f216a2e33ec4b73fe0285c9c9[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 14:08:00 2022 -0300
+
+    create Hello.java class
+
+[33mcommit 5bd73246adfa6f1d04803cbc475ae0b5ee5a4699[m
+Author: FilipeFariaas <filipefarias117@gmail.com>
+Date:   Sun Sep 4 13:51:59 2022 -0300
+
+    first commit
