@@ -104,6 +104,33 @@ public class Main {
 
         System.out.println("Minimum Double Value: " + minimumDoubleValue);
         System.out.println("Maximum Double Value: " + maximumDoubleValue);
+
+        /*
+            When declaring float point numbers, by default Java will receive them as double,
+            so it's necessary to explicitly tells which type is expected
+        */
+
+        // float floatVal = 5.25; <-- Java will understand this value as a double, causing an error
+        // it's necessary to either add a "f" (more used) to the final or cast it to float
+        float floatVal = 5.25f;
+        // casting example: float floatVal2 = (float) 5.25;
+
+        // Java already understand the value as a double,
+        // but it's possible to add a "d" at the end of the value
+        // double value declaration example: double doubleVal= 5.25;
+        double doubleVal = 5.25d;
+
+        System.out.println("\n----- DIVISIONS -----");
+        floatVal = 5f;
+        doubleVal = 5f;
+
+        // it's important to note tha divisions with int values will not be precise
+        int intValDivided = 5 / 2; // <-- expected 2.5, but got just 2;
+        System.out.println("Int value divided (5 / 2): " + intValDivided);
+
+        // so is always better to use float point numbers when dividing
+        System.out.println("Float value divided (5 / 3): " + (floatVal / 3f));
+        System.out.println("Double value divided (5 / 3): " + (doubleVal / 3d));
         
     }
 }
