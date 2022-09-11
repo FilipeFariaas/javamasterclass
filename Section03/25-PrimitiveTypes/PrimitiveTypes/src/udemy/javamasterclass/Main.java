@@ -11,6 +11,7 @@ public class Main {
             - int
             - long
             - float
+            - double
         */
 
         /* Integer is a Wrapper Class
