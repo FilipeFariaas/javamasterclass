@@ -142,6 +142,16 @@ public class Main {
 
         double poundsConverted = pounds * kilogramsBase;
         System.out.println(pounds + " pounds converted to kilograms is: " + poundsConverted);
-        
+
+        System.out.println("\n----- CHAR -----");
+        // it stores a SINGLE character between simple quotes
+        // a char occupies 16 bits (width of sixteen)
+        // can store unicode characters
+
+        char charVal = 'D';
+        char unicodeVal = '\u0044';
+
+        System.out.println("Literal value 'D': " + charVal);
+        System.out.println("Unicode value '0044': " + unicodeVal);
     }
 }
