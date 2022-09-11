@@ -62,5 +62,25 @@ public class Main {
         // when declaring a variable of the Long type, it's necessary to put a capital L at the end of the number
         long longValue = 123L;
         System.out.println("Long variable with value assigned: " + longValue);
+
+        System.out.println("----- CHALLENGE -----");
+        /*
+            Create a byte variable;
+            Create a short variable;
+            Create an int variable;
+            Create a long variable and set its value to be:
+                50000 + 10 times the sum of the other three variables;
+        */
+
+        byte byteVal = (Byte.MAX_VALUE / 2);
+        short shortVal = (Short.MAX_VALUE / 2) + 50;
+        int intVal = (Integer.MAX_VALUE / 2) + (25 * 4);
+
+        System.out.println("Byte value: " + byteVal);
+        System.out.println("Short value: " + shortVal);
+        System.out.println("Int value: " + intVal);
+
+        long finalVal = 50000L + ( (long) (byteVal + shortVal + intVal) * 10);
+        System.out.println("Final value: " + finalVal);
     }
 }
